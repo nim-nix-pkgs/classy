@@ -11,7 +11,6 @@
   inputs.src-classy-master.ref   = "refs/heads/master";
   inputs.src-classy-master.owner = "nigredo-tori";
   inputs.src-classy-master.repo  = "classy";
-  inputs.src-classy-master.dir   = "";
   inputs.src-classy-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

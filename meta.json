@@ -7,7 +7,7 @@
   "license": "Unlicense",
   "web": "https://github.com/nigredo-tori/classy",
   "refs": [
-    "fatal: unable to access 'https://github.com/nigredo-tori/classy/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/nigredo-tori/classy/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
